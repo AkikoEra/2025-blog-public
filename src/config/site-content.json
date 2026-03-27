@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "AkikoEra",
+		"description": "AkikoEra的个人博客，记录计算机图形学与houdini开发、探索、笔记。",
+		"username": "Akiko Era"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -43,14 +43,14 @@
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
+			"type": "x",
 			"value": "https://github.com/yysuni",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
+			"type": "github",
 			"value": "https://juejin.cn/user/2427311675422382",
 			"label": "稀土掘金",
 			"order": 2
@@ -58,7 +58,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "15090686880@sina.cn",
 			"label": "",
 			"order": 1
 		}
