@@ -55,15 +55,15 @@
 		{
 			"id": "github",
 			"type": "x",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
+			"value": "https://x.com/Era_Wakiko",
+			"label": "X",
 			"order": 3
 		},
 		{
 			"id": "juejin",
 			"type": "github",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"value": "https://github.com/AkikoEra",
+			"label": "Github",
 			"order": 2
 		},
 		{
