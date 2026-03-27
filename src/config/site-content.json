@@ -6,12 +6,12 @@
 	},
 	"theme": {
 		"colorBrand": "#2a48f3",
-		"colorPrimary": "#e6e8e8",
-		"colorSecondary": "#acadae",
+		"colorPrimary": "#ffffff",
+		"colorSecondary": "#ffffff",
 		"colorBrandSecondary": "#51d0b9",
 		"colorBg": "#0a051f",
 		"colorBorder": "#8a8a8a5e",
-		"colorCard": "#ffffff0e",
+		"colorCard": "#7f7f7f25",
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
