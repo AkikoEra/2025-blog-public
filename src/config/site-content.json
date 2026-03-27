@@ -5,10 +5,10 @@
 		"username": "Akiko Era"
 	},
 	"theme": {
-		"colorBrand": "#de4331",
-		"colorPrimary": "#4E3F42",
-		"colorSecondary": "#7b888e",
-		"colorBrandSecondary": "#FCC841",
+		"colorBrand": "#494949",
+		"colorPrimary": "#000000",
+		"colorSecondary": "#676767",
+		"colorBrandSecondary": "#ffffff",
 		"colorBg": "#eeeeee",
 		"colorBorder": "#ffffff",
 		"colorCard": "#ffffff66",
@@ -32,7 +32,7 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -44,15 +44,15 @@
 		{
 			"id": "github",
 			"type": "x",
-			"value": "https://x.com/Era_Wakiko",
-			"label": "X",
+			"value": "https://github.com/yysuni",
+			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
 			"type": "github",
-			"value": "https://github.com/AkikoEra",
-			"label": "Github",
+			"value": "https://juejin.cn/user/2427311675422382",
+			"label": "稀土掘金",
 			"order": 2
 		},
 		{
@@ -63,12 +63,12 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 10,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
