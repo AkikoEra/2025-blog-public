@@ -35,7 +35,7 @@
 			"url": "https://media.sidefx.com/uploads/gallery/227197/For-All-Mankind-Ave.jpg"
 		}
 	],
-	"currentArtImageId": "url-1774645004843",
+	"currentArtImageId": "url-1774645082741",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -44,9 +44,13 @@
 		{
 			"id": "url-1774645090942",
 			"url": "https://media.sidefx.com/uploads/gallery/227197/For-All-Mankind-Ave.jpg"
+		},
+		{
+			"id": "80944c5207999a37",
+			"url": "/images/background/80944c5207999a37.jpg"
 		}
 	],
-	"currentBackgroundImageId": "url-1774645090942",
+	"currentBackgroundImageId": "80944c5207999a37",
 	"socialButtons": [
 		{
 			"id": "github",
