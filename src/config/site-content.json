@@ -5,14 +5,14 @@
 		"username": "Akiko Era"
 	},
 	"theme": {
-		"colorBrand": "#2a48f3",
-		"colorPrimary": "#ffffff",
+		"colorBrand": "#ffffff",
+		"colorPrimary": "#000000",
 		"colorSecondary": "#ffffff",
 		"colorBrandSecondary": "#51d0b9",
 		"colorBg": "#0a051f",
 		"colorBorder": "#8a8a8a5e",
 		"colorCard": "#7f7f7f25",
-		"colorArticle": "#6f6f6f33"
+		"colorArticle": "#7f7f7f66"
 	},
 	"backgroundColors": [
 		"#00000000"
