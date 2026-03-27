@@ -1,5 +1,14 @@
 [
   {
+    "slug": "Archlinux_stardew_bug",
+    "title": "临时解决 Arch Linux 原生运行 星露谷物语 时由 glibc 导致的 Galaxy API 初始化错误 ",
+    "tags": [],
+    "date": "2026-03-28T05:32",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "解决linux上星露谷物语合作页面一直显示正在连接到在线服务",
     "title": "解决Linux上星露谷物语合作页面一直显示正在连接到在线服务… ",
     "tags": [],
