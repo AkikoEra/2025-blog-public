@@ -5,18 +5,17 @@
 		"username": "Akiko Era"
 	},
 	"theme": {
-		"colorBrand": "#ffffff",
-		"colorPrimary": "#000000",
-		"colorSecondary": "#676767",
-		"colorBrandSecondary": "#fdfdfd",
-		"colorBg": "#878787",
-		"colorBorder": "#000000",
-		"colorCard": "#6f6f6f",
-		"colorArticle": "#ffffffcc"
+		"colorBrand": "#2a48f3",
+		"colorPrimary": "#e6e8e8",
+		"colorSecondary": "#acadae",
+		"colorBrandSecondary": "#51d0b9",
+		"colorBg": "#0a051f",
+		"colorBorder": "#8a8a8a5e",
+		"colorCard": "#ffffff0e",
+		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#000000",
-		"#848484"
+		"#16007b"
 	],
 	"artImages": [
 		{
@@ -26,9 +25,13 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "url-1774645004843",
+			"url": "https://media.sidefx.com/uploads/gallery/64591/nebulacloud3_012_post10_4.jpg"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "url-1774645004843",
 	"backgroundImages": [
 		{
 			"id": "",
