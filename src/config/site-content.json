@@ -29,6 +29,10 @@
 		{
 			"id": "url-1774645004843",
 			"url": "https://media.sidefx.com/uploads/gallery/64591/nebulacloud3_012_post10_4.jpg"
+		},
+		{
+			"id": "url-1774645082741",
+			"url": "https://media.sidefx.com/uploads/gallery/227197/For-All-Mankind-Ave.jpg"
 		}
 	],
 	"currentArtImageId": "url-1774645004843",
@@ -36,9 +40,13 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1774645090942",
+			"url": "https://media.sidefx.com/uploads/gallery/227197/For-All-Mankind-Ave.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1774645090942",
 	"socialButtons": [
 		{
 			"id": "github",
