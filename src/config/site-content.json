@@ -8,10 +8,10 @@
 		"colorBrand": "#ffffff",
 		"colorPrimary": "#000000",
 		"colorSecondary": "#676767",
-		"colorBrandSecondary": "#000000",
+		"colorBrandSecondary": "#fdfdfd",
 		"colorBg": "#878787",
 		"colorBorder": "#000000",
-		"colorCard": "#000000",
+		"colorCard": "#6f6f6f",
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
