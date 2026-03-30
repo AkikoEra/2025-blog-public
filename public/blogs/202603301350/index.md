@@ -2,18 +2,18 @@
 create a sphere and note isooffset.  
 isooffset will create a volume box around sphere,in shpere density is 1 and out of sphere is 0.  
 next use volumewrangle note VEXpression.  
-``` VEX
-float d = f@density;
+``` 
+float d = f@density;  
 
-d *= noise(@P * chf("mult"));
+d *= noise(@P * chf("mult"));  
 
-f@float d = f@density;
+f@float d = f@density;  
 
-d *= noise(@P * chf("mult"));
+d *= noise(@P * chf("mult"));  
 
-f@density = d;
+f@density = d;  
 ```
-![noise density](./Screen1.png)
+![noise density](./Screen1.webp)  
   
   
 接下来是function volumesample：该函数可以采样volume primitives 的pos位置的float value  
@@ -34,6 +34,6 @@ if(dist < d*0.5)
       f@density = 0;  
 }  
 ```  
-![volumesample](./VolumeSample.png)  
+![volumesample](./VolumeSample.webp)  
   
 
