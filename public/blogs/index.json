@@ -1,5 +1,14 @@
 [
   {
+    "slug": "202603301228",
+    "title": "Neovim + lazyvim + markdownpreview 配置",
+    "tags": [],
+    "date": "2026-03-30T12:28",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "Archlinux_stardew_bug",
     "title": "临时解决 Arch Linux 原生运行 星露谷物语 时由 glibc 导致的 Galaxy API 初始化错误 ",
     "tags": [],
