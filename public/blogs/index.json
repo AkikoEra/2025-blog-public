@@ -1,5 +1,15 @@
 [
   {
+    "slug": "202603301350",
+    "title": "Vex算法设计笔记E10_Volume Basics ",
+    "tags": [],
+    "date": "2026-03-30T13:50",
+    "summary": "",
+    "cover": "/blogs/202603301350/dfaad7415b1adfaa.png",
+    "hidden": false,
+    "category": "代码实现"
+  },
+  {
     "slug": "202603301228",
     "title": "Neovim + lazyvim + markdownpreview 配置",
     "tags": [],
