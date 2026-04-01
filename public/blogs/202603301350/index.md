@@ -13,7 +13,7 @@ d *= noise(@P * chf("mult"));
 
 f@density = d;  
 ```
-![noise density](./Screen1.webp)  
+![noise density](Screen1.webp)  
   
   
 接下来是function volumesample：该函数可以采样volume primitives 的pos位置的float value  
@@ -34,6 +34,6 @@ if(dist < d*0.5)
       f@density = 0;  
 }  
 ```  
-![volumesample](./VolumeSample.webp)  
+![volumesample](VolumeSample.webp)  
   
 
